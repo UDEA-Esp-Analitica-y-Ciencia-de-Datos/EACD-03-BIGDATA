@@ -1,0 +1,14 @@
+Barcelona,23
+Valencia,29
+Alicante,26
+Barcelona,15
+Madrid,21
+Valencia,24
+Sevilla,38
+Valencia,18
+Alicante,32
+Barcelona,20
+Sevilla,26
+Valencia,18
+Madrid,28
+Sevilla,35
