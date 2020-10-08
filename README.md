@@ -2,7 +2,9 @@
 
 ## Descripción del curso
 En un mundo donde “quien tiene la información tiene el poder”, se nos presenta un gran desafío y debemos estar listos para empezar afrontarlo, es un mundo donde cada vez más las decisiones se toman basados en la información y esto nos da una ventaja competitiva que sin duda puede hacer la diferencia entre el éxito y el fracaso. Es la era de la revolución de los datos, donde cada día se generan más datos que el día anterior y es justo ahí donde podemos ver una gran oportunidad.
+
 En ese contexto se enmarca el curso de Programación de grandes volúmenes de datos, como una alternativa para afrontar el desafío que vivimos hoy con el fin de aprovechar esa gran cantidad de datos y convertirlos en conocimiento. 
+
 Entraremos en el mundo del Big Data para conocerlo a fondo, entenderemos que ha cambiado en el mundo para que aparezcan estas nuevas alternativas y veremos con ejemplos reales que es un área transversal. En este camino nos encontramos con una nueva alternativa de programación orientada a los sistemas distribuidos y a la paralelización de los procesos.
 Revisaremos Frameworks para Big Data como Hadoop y su ecosistema que nos permite pensar en un almacenamiento y procesamiento distribuido. Para luego centrar toda nuestra atención en Spark, la herramienta que utilizaremos a lo largo del curso.
 Revisaremos las diferentes alternativas que nos ofrece Spark para el tratamiento de los datos como es el caso de los RDD y DataFrame, y por último nos enfocaremos en la ciencia de datos entendiendo las necesidades del Machine Learning en entornos de Big Data.
