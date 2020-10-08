@@ -15,7 +15,7 @@ Big Data
 - Escalabilidad
 - Bases de datos NoSQL
 - Aplicaciones de Big Data
-Frameworks para Big Data
+- Frameworks para Big Data
 - Ecosistema Hadoop: HDFS, Map Reduce, Hbase, Pig, Hive, entre otros 
 - Spark:  Arquitectura, Clusters
 
