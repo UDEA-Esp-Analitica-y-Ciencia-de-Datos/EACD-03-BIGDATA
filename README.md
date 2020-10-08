@@ -26,16 +26,17 @@ Frameworks para Big Data
 - Ejercicios Map Reduce
 
 **SESIÓN 03: Map Reduce y RDD** (6hrs): 
-- [TALLER]: Map Reduce
+- TALLER: Map Reduce
 - RDD
 - Ejercicios RDD
+
 **SESIÓN 04: RDD y DataFrame** (4hrs): 
-- [TALLER]: RDD
+- TALLER: RDD
 - DataFrame
 
 **SESIÓN 05: DataFrame y Machine Learning** (6hrs): 
 - Ejercicios DataFrame
-- [TALLER]: DataFrame
+- TALLER: DataFrame
 - Machine Learning: Preparación de Datos
 
 **SESIÓN 06: Machine Learning** (4hrs): 
