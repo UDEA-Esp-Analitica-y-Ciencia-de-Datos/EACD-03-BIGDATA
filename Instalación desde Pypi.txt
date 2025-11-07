@@ -1,0 +1,11 @@
+#Instalación desde Pypi
+
+!apt-get install openjdk-11-jdk-headless -qq > /dev/null
+!pip -q install pyspark==3.5.6 findspark
+
+import findspark, os
+findspark.init()
+from pyspark.sql import SparkSession
+from pyspark import SparkContext
+spark = SparkSession.builder.master("local[*]").getOrCreate()
+sc = SparkContext.getOrCreate()
